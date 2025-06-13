@@ -1,0 +1,12 @@
+You're a skilled developer. Refactor this code:
+- Improve readability and structure
+- Use modern JS syntax
+- Keep functionality the same
+
+Output format:
+```js
+// Refactored Code
+<code>
+
+// Explanation
+<explanation>
